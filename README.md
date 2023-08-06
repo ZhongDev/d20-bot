@@ -2,6 +2,10 @@
 # d20-bot
 DiscordJS Dice Bot for Dungeons and Dragons
 
+## :warning: Deprecated :warning:
+
+This repository is no longer being worked on or supported and has been archived. The code and documentation in this repository are provided as-is, and no further updates or bug fixes will be made. Please use this repository for reference purposes only.
+
 Commands
 =====
 *  ```!ping```: Pings bot<br>
